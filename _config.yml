@@ -18,7 +18,7 @@ email: mick.smith.us@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I study how skilled persons in interaction with one another
   accomplish complex activities using talk, their bodies, 
-  their settings, tools, and their co-present surround. 
+  the settings, tools, and other co-present materials. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mck_smth
